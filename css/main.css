@@ -1,12 +1,8 @@
 @font-face {
-    font-family:"HaxrCorp 4089 Cyrillic AltGr Regular";
-    src:url("haxrcorp_4089_cyrillic_altgr.eot?") 
-        format("eot"),url("haxrcorp_4089_cyrillic_altgr.woff") 
-        format("woff"),url("haxrcorp_4089_cyrillic_altgr.ttf") 
-        format("truetype"),url("haxrcorp_4089_cyrillic_altgr.svg#HaxrCorp-4089-Cyrillic-AltGr") 
-        format("svg");font-weight:normal;font-style:normal;}
+    font-family: 'Concert One';
+    src:url('https://fonts.googleapis.com/css?family=Concert+One') 
 body {
-    font-family:"HaxrCorp 4089 Cyrillic AltGr Regular" ;
+    font-family: 'Concert One', cursive;
     margin: 60px auto;
     width: 70%;
 }
