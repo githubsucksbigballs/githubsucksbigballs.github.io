@@ -1,7 +1,9 @@
-*{
-	font: 15px HaxrCorp S8 !important;
-	}
+@font-face {
+    font-family: 'haxrcorp'; /*a name to be used later*/
+    src: url('http://domain.com/fonts/font.ttf'); /*URL to font*/
+}
 body {
+    font-family: haxrcorp;
     margin: 60px auto;
     width: 70%;
 }
