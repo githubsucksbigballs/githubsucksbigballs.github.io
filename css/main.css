@@ -1,6 +1,7 @@
 @font-face {
     font-family: 'Concert One';
     src:url('https://fonts.googleapis.com/css?family=Concert+One');
+}
 body {
     font-family: 'Concert One', cursive;
     margin: 60px auto;
