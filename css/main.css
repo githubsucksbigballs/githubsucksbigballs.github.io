@@ -1,15 +1,16 @@
 @font-face {
-    font-family: "Concert One";
+    font-family: "Haxrcorp";
     src:url('https://raw.githubusercontent.com/githubsucksbigballs/githubsucksbigballs.github.io/master/haxrcorp_4089_cyrillic_altgr.ttf');
 }
 body {
-    font-size: 12px;
-    font-family: 'Concert One';
+    background: content-box radial-gradient(crimson, skyblue);
+    font-size: 24px;
+    font-family: 'Haxrcorp';
     margin: 60px auto;
     width: 70%;
 }
 nav ul, footer ul {
-    font-family: 'Concert One';
+    font-family: 'Haxrcorp';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -26,8 +27,8 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 12px;
-    font-family: 'Concert One';
+    font-size: 1em;
+    font-family: 'Haxrcorp';
 }
 p {
     font-size: 1.5em;
