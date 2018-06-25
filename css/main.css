@@ -3,7 +3,7 @@
     src:url('https://raw.githubusercontent.com/githubsucksbigballs/githubsucksbigballs.github.io/master/haxrcorp_4089_cyrillic_altgr.ttf');
 }
 body {
-    background: content-box radial-gradient(crimson, skyblue);
+    background: #F0F0F0;
     font-size: 24px;
     font-family: 'Haxrcorp';
     margin: 60px auto;
